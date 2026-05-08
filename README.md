@@ -38,3 +38,4 @@ This project presents an end-to-end real estate data analysis workflow using SQL
 ---
 
 ## 🖥️ Dashboard Preview
+![Dashboard](Screenshots/Screenshot 2026-05-09-000354.png)
