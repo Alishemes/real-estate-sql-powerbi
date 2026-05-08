@@ -38,4 +38,4 @@ This project presents an end-to-end real estate data analysis workflow using SQL
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard](Screenshots/dashboard-preview.png)
+![Dashboard](RealEstate_SQL_PowerBI/dashboard-preview.png)
